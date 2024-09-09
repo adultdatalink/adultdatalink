@@ -22,9 +22,8 @@ You can access the full range of services on our website:
 ## Features
 
 - Powerful content automation APIs
-- No-code front-end tools for non-technical users
-- In-house Flask/ FastAPI backends
-- Support for bot automation and dashboards
+- No-code front-end tools for non-technical users (soon)
+- Support for bot automation and dashboards (soon)
 - High-performance video processing and manipulation
 
 ## Getting Started
