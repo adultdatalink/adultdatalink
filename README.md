@@ -14,7 +14,7 @@ For detailed information on how to use our services, refer to the following docu
 
 - **[API Documentation](https://adultdatalink.com/documentation)**: Learn how to integrate and use our powerful adult content APIs to automate adult content management on your platform.
 - **[Developer Guides & Blog](https://adultdatalink.com)**: Discover helpful developer guides, tutorials, and best practices for working with adult content APIs.
-- **[Integration Examples](https://adultdatalink.com/examples)**: Access sample code and example projects that demonstrate how to use our APIs for video fetching, categorization, and manipulation.
+- **[Integration Examples](https://adultdatalink.com/services)**: Access sample code and example projects that demonstrate how to use our APIs for video fetching, categorization, and manipulation.
 
 ## Website
 
